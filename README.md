@@ -52,3 +52,51 @@ The system utilizes Computer Vision and Deep Learning to analyze driver behavior
 │   ├── down.wav
 │   └── Warningg.mp3
 └── requirements.txt         # Project dependencies
+
+---
+
+## 🚀 Getting Started
+
+### 1. Installation
+Clone the repository and install the necessary dependencies:
+
+```bash
+git clone [https://github.com/EsraaAshraf09/Driver-Monitoring-System.git](https://github.com/EsraaAshraf09/Driver-Monitoring-System.git)
+cd Driver-Monitoring-System
+pip install -r requirements.txt
+
+---
+
+### 2. Running the Project
+Ensure your camera is connected and the model, sound files are located in the same folder of the code, then execute:
+
+```bash
+python Code/main.py
+
+---
+
+---
+
+## 📊 Results & Demo
+The system classifies driver states into 5 distinct categories for maximum safety coverage: 
+
+* **Face Detected:** Normal driving state (Forward-facing).
+* **Face with Glasses:** Successful tracking while wearing eyewear.
+* **Face with Mask:** Accurate eye tracking optimized for masked faces.
+* **Face with Mask and Glasses:** Handling complex overlapping conditions.
+* **No Face Detected:** Immediate warning triggered when no face is visible to the camera.
+
+### 🎬 Project Demo
+[Click here to watch the full project demo on Google Drive](https://drive.google.com/file/d/1kayAskRXusCPOulKT4XsajhBqONFXQkW/view?usp=drive_link)
+
+---
+
+## 🏆 Achievements
+* **Award:** 1st Place Winner - Benha University Student Conference (2025).
+* **Academic Grade:** A+ (Excellent with Honors) for Graduation Project.
+
+---
+
+## 📬 Contact
+**Esraa Ashraf** 📧 **Email:** [esraashraf09@gmail.com](mailto:esraashraf09@gmail.com)  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/esraa-ashraf-ba5573300/)
