@@ -52,7 +52,7 @@ The system utilizes Computer Vision and Deep Learning to analyze driver behavior
 │   ├── down.wav
 │   └── Warningg.mp3
 └── requirements.txt         # Project dependencies
-
+```
 ---
 
 ## 🚀 Getting Started
@@ -61,10 +61,10 @@ The system utilizes Computer Vision and Deep Learning to analyze driver behavior
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone [https://github.com/EsraaAshraf09/Driver-Monitoring-System.git](https://github.com/EsraaAshraf09/Driver-Monitoring-System.git)
-cd Driver-Monitoring-System
+git clone [https://github.com/Esraa-ashraff/driver-monitoring-system.git](https://github.com/Esraa-ashraff/driver-monitoring-system.git)
+cd driver-monitoring-system
 pip install -r requirements.txt
-
+```
 ---
 
 ### 2. Running the Project
@@ -72,7 +72,7 @@ Ensure your camera is connected and the model, sound files are located in the sa
 
 ```bash
 python Code/main.py
-
+```
 ---
 
 ---
