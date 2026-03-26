@@ -61,7 +61,7 @@ The system utilizes Computer Vision and Deep Learning to analyze driver behavior
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone [https://github.com/Esraa-ashraff/driver-monitoring-system.git](https://github.com/Esraa-ashraff/driver-monitoring-system.git)
+git clone (https://github.com/Esraa-ashraff/driver-monitoring-system.git)
 cd driver-monitoring-system
 pip install -r requirements.txt
 ```
